@@ -1,0 +1,10 @@
+{
+  repo = {
+    user = "thekoksus",
+    repo = "EasySetup",
+    branch = "master",
+  },
+  files = {
+    [ "/.EasySetup/main.lua" ] = "src/main.lua",
+  },
+}
